@@ -1,0 +1,13 @@
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.exe
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.deps.json
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.runtimeconfig.json
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.runtimeconfig.dev.json
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.dll
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\bin\Debug\netcoreapp3.1\Deli_Counter_menu.pdb
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.csprojAssemblyReference.cache
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.AssemblyInfoInputs.cache
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.AssemblyInfo.cs
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.csproj.CoreCompileInputs.cache
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.dll
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.pdb
+C:\New Grand Circus\Grand_Circus\Lab3_2\Deli_Counter_menu\obj\Debug\netcoreapp3.1\Deli_Counter_menu.genruntimeconfig.cache
